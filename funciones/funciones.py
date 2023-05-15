@@ -41,5 +41,9 @@ if __name__ == "__main__":
 
     #imprime os resultados
     print('La suma: ', str(s))
-    print(f'la resta: {str(s)}')
-    
+    print(f'la resta: {str(r)}')
+    print(f'la multi: {str(m)}')
+    print(f'la dividir: {str(d)}')
+    print(f'la modulo(resto): {str(mo)}')
+    print(f'la elevar: {str(e)}')
+
